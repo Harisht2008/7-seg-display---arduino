@@ -2,6 +2,7 @@
 7-seg display with button debouncer
 -used binary pattern
 -used button debouncer
+-used UART communication for debugging and testing
 -created sequence for values
 -could be optimized with: 
 -binary search and functions (wasn't working properly during testing).
